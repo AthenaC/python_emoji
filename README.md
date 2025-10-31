@@ -111,3 +111,5 @@ Current tests include:
 - Basic functionality test (`test_script_runs_and_prints_emoji`)
 - Verification of emoji output
 - Command execution validation
+
+![Screenshot of the Script](image.png)
